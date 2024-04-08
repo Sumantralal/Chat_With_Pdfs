@@ -35,6 +35,7 @@ pip install -r requirements.txt
 ## Usage
 To run the app:
 
+Create a .env file and Put the OPENAI_API_KEY=" " in it.
 ```bash
 streamlit run app.py
 ```
