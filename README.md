@@ -22,16 +22,26 @@ The application follows these steps to provide responses to your questions:
 - **Embedding Model**: OpenAI Embedding Model
 
 ## Installation
+
+To install the necessary dependencies, run the following command:
+
 ```bash
-pip install -r requirements. txt 
+pip install -r requirements.txt
 
 
-##Run:
+
+## Run:
+
+To run the application, use the following command:
+
+```bash
 streamlit run app.py
 
-##How to use the app:
-Step 1: Upload the pdfs through Browse files options.
-Step 2: Click on Process button.
-Step 3: Type your query you want to ask from the pdfs that you have
-uploaded.
-Step 4: And here you go, you can chat with the pdfs through this app.
+
+## How to use the app:
+
+1. **Step 1**: Upload the PDFs through the Browse files option.
+2. **Step 2**: Click on the Process button.
+3. **Step 3**: Type your query you want to ask from the PDFs that you have uploaded.
+4. **Step 4**: And here you go, you can chat with the PDFs through this app.
+
