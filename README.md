@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 
 
-##Run:
+##Run
 
 To run the application, use the following command:
 
