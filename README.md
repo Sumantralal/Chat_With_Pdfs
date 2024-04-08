@@ -23,13 +23,13 @@ The application follows these steps to provide responses to your questions:
 
 ## Installation
 ```bash
-pip install streamlit PyPDF2 langchain python-dotenv openai
+pip install -r requirements. txt 
 
 
-Run:
+##Run:
 streamlit run app.py
 
-How to use the app:
+##How to use the app:
 Step 1: Upload the pdfs through Browse files options.
 Step 2: Click on Process button.
 Step 3: Type your query you want to ask from the pdfs that you have
