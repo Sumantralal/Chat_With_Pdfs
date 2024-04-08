@@ -30,12 +30,12 @@ pip install -r requirements.txt
 
 
 
-##Run
-
-To run the application, use the following command:
+## Usage
+To run the Streamlit app:
 
 ```bash
 streamlit run app.py
+```
 
 
 ## How to use the app:
